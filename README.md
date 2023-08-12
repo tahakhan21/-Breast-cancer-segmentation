@@ -16,6 +16,7 @@ Delve into the dataset preprocessing techniques and augmentation strategies empl
 Witness the powerful segmentation outcomes through visualizations and performance metrics.
 **Why It Matters:**As medical technology evolves, accurate and efficient diagnostics become paramount. This project represents a significant stride towards revolutionizing medical imaging, enabling healthcare professionals to make informed decisions with greater confidence.
 
-**Contribution Opportunities:**Are you passionate about medical imaging, deep learning, or simply excited to make a difference? Your expertise and enthusiasm can contribute to advancing this technology, expanding its impact across the medical field.
+**Contribution Opportunities:** 
+Are you passionate about medical imaging, deep learning, or simply excited to make a difference? Your expertise and enthusiasm can contribute to advancing this technology, expanding its impact across the medical field.
 
 Let's collaborate in shaping the future of medical diagnostics! Join the journey by exploring the repository, providing insights, and contributing your skills to amplify the reach of this transformative project.
